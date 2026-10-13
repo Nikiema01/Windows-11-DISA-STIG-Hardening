@@ -6,5 +6,5 @@ Ten distinct Windows 11 STIG findings were selected for a PowerShell hardening l
 
 - [x] Ten distinct findings documented
 - [x] Local command verification screenshots captured
-- [ ] Post-change compliance scan completed and results attached
-- [ ] Verify any domain policy overrides and reboot-dependent settings
+- [x] Post-change compliance scan completed and results attached
+- [x] Verify any domain policy overrides and reboot-dependent settings
